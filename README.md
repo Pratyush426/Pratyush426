@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
@@ -12,11 +14,17 @@
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" alt="Penguin working" width="500" align="right">
+</div>
 
 > Transforming complex problems into scalable, intelligent systems. I specialize in **AI integration**, **event-driven architectures**, and **full-stack development**—from LLM orchestration to pixel-perfect frontends.
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" alt="Penguin working" width="500">
+</div>
+
+<div align="center">
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 20px auto; box-shadow: 0 10px 30px rgba(0,0,0,0.3); max-width: 600px;">
 
 ```javascript
 // 💻 MacBook Terminal
@@ -24,7 +32,7 @@
 │  ⬤ ⬤ ⬤                                              zsh  │
 ├─────────────────────────────────────────────────────────────┤
 │ $ const pratyush = {                                        │
-│     role: "Full-Stack AI Engineer" 🚀                      │
+│     role: "Full-Stack Engineer" 🚀                      │
 │     location: "Building from everywhere 🌍"                │
 │     languages: ["Python", "TypeScript", "JavaScript"]      │
 │     expertise: ["AI Integration", "System Design"]          │
@@ -38,7 +46,11 @@
 
 </div>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🔧 Technical Expertise
 
@@ -46,6 +58,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</div>
 
 ---
 
@@ -80,7 +94,9 @@
 - **Caching & Queues:** Redis, BullMQ
 - **Version Control:** Git, GitHub workflows
 
----
+</div>
+
+<div align="center">
 
 ## 🎯 Core Competencies
 
@@ -124,9 +140,13 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
----
+</div>
+
+<div align="center">
 
 ## ⭐ Featured Projects
+
+</div>
 
 ### 🚀 **NexusAI** — AI-Powered Application Tracking System
 **[Repository](https://github.com/Pratyush426/NexusAI) | [Live Demo](https://nexasai.vercel.app/) | [TypeScript](https://img.shields.io/badge/TypeScript-74.3%25-3178C6?style=flat-square)**
@@ -200,6 +220,8 @@ validated_response = AnalysisResponse(items=items, count=len(items), error=None)
 
 ---
 
+<div align="center">
+
 ### 🔗 Other Notable Projects
 
 | Project | Description | Tech Stack |
@@ -208,7 +230,9 @@ validated_response = AnalysisResponse(items=items, count=len(items), error=None)
 | **research-qa** | Intelligent document question-answering system | Python + NLP |
 | **Portfolio** | Professional project showcase with animations | JavaScript + React |
 
----
+</div>
+
+<div align="center">
 
 ## 📈 GitHub & Contributions
 
@@ -218,7 +242,11 @@ validated_response = AnalysisResponse(items=items, count=len(items), error=None)
 
 **Recent Activity:** 100+ contributions in the last year with consistent development across multiple domains
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🎓 Philosophy & Approach
 
@@ -237,7 +265,11 @@ principle_6() { echo "Vendor flexibility       → swappable integrations" }
 for i in {1..6}; do principle_$i; done
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🌟 What I'm Learning & Exploring
 
@@ -250,7 +282,7 @@ for i in {1..6}; do principle_$i; done
 🤖 Multi-agent AI systems & reasoning frameworks
 ```
 
----
+</div>
 
 ## 💬 Let's Connect
 
@@ -266,7 +298,9 @@ I'm passionate about:
 - 🔧 Building with cutting-edge technologies
 - 🚀 Collaborating on projects that push boundaries
 
----
+</div>
+
+<div align="center">
 
 ## 📊 Quick Stats
 
@@ -276,7 +310,7 @@ I'm passionate about:
 - 🎯 **Full-stack developer** with AI/ML focus
 - 🚀 **Shipped** multiple production systems
 
----
+</div>
 
 <div align="center">
 
