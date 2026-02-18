@@ -1,92 +1,219 @@
-# Hey, I'm Pratyush Mohanty 👋
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║   👋  H e y ,  I ' m  P r a t y u s h  M o h a n t y ✨              ║
+║                                                                       ║
+║   Full-Stack • AI Engineer • System Architect                        ║
+║   🚀 Building production-grade AI systems with elegant code          ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
 
-A full-stack developer passionate about building intelligent, production-grade applications with **AI at the core**. I specialize in creating systems that combine robust architecture with cutting-edge AI integration—from event-driven backends to intuitive frontends.
-
----
-
-## 🚀 Featured Projects
-
-### **NexusAI** — AI-Powered Career Assistant
-[Repo](https://github.com/Pratyush426/NexusAI) | [Demo](https://nexasai.vercel.app/)
-
-Stop manually tracking job applications. NexusAI automatically syncs your Gmail, extracts key details using LLMs, and visualizes your progress on a real-time dashboard.
-
-**Tech Stack:** React 18 + TypeScript | Node.js + Express | MongoDB | BullMQ + Redis | Google Gemini  
-**Key Achievement:** Event-driven architecture keeps the UI snappy while background workers handle 2-5s AI inference per email
+> Transforming complex problems into scalable, intelligent systems. I specialize in **AI integration**, **event-driven architectures**, and **full-stack development**—from LLM orchestration to pixel-perfect frontends.
 
 ---
 
-### **BetterFeedback** — AI-Powered Feedback Analysis
-[Repo](https://github.com/Pratyush426/BetterFeedback) | [Live Demo](https://better-feedback-git-main-pratyushs-projects-65d8dae4.vercel.app/)
+## 🔧 Technical Expertise
 
-Paste raw customer feedback and instantly get it categorized into Bugs, Feature Requests, and Pain Points with sentiment analysis—all powered by Gemini AI.
+### **Languages & Paradigms**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Tech Stack:** Python + Flask + Pydantic v2 | React 18 + Vite | SQLite → Postgres-ready | Google Gemini  
-**Key Achievement:** Defense-in-depth validation; 22 tests (~0.14s) with zero API key requirements
+### **Frontend Mastery**
+| Technology | Expertise |
+|------------|-----------|
+| **React 18** | Components, Hooks, State Management (TanStack Query) |
+| **Styling** | Tailwind CSS, Shadcn/ui, Framer Motion animations |
+| **Build Tools** | Vite, Next.js optimization, bundle analysis |
+| **UX Focus** | Accessibility (a11y), responsive design, performance |
 
----
+### **Backend & Architecture**
+| Domain | Stack |
+|--------|-------|
+| **APIs** | Node.js + Express, Flask, RESTful design |
+| **Async Processing** | BullMQ, Redis, event-driven patterns |
+| **Databases** | MongoDB (Mongoose), PostgreSQL, SQLite |
+| **Testing** | Jest, Pytest, integration & unit tests |
+| **Design Patterns** | Factory pattern, dependency injection, SOLID principles |
 
-### **Other Projects**
-- **text_to_verilog** — LLM-powered hardware description language generation
-- **research-qa** — Intelligent document QA system
-- **Portfolio** — Personal project showcase
+### **AI & Machine Learning**
+| Area | Implementation |
+|------|-----------------|
+| **LLM Integration** | Google Gemini, Groq, prompt engineering |
+| **Schema Validation** | Pydantic v2, defense-in-depth contracts |
+| **AI Orchestration** | Task routing, parallel processing, fallback strategies |
+| **Data Processing** | Email parsing, natural language understanding, classification |
 
----
-
-## 💡 What I Build
-
-**AI Integration**
-- LLM task orchestration (Gemini, Groq)
-- Pydantic-powered schema validation & defense-in-depth API contracts
-- Swappable AI services for vendor flexibility
-
-**Backend Architecture**
-- Event-driven systems with BullMQ/Redis
-- Application factory pattern for testability
-- Zero-config SQLite → Postgres migrations
-
-**Full-Stack Development**
-- React 18 with TypeScript & Tailwind CSS
-- State management with TanStack Query
-- Modern UI with Shadcn/ui and Framer Motion
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python, TypeScript, JavaScript  
-**Frontend:** React, Vite, Tailwind CSS, Shadcn/ui  
-**Backend:** Node.js, Express, Flask  
-**Databases:** MongoDB, SQLite, PostgreSQL  
-**AI/LLM:** Google Gemini, Groq  
-**DevOps & Tools:** Vercel, Render, Redis, BullMQ  
+### **DevOps & Infrastructure**
+- **Deployment:** Vercel, Render, Railway
+- **Database Hosting:** MongoDB Atlas, Railway Postgres
+- **Caching & Queues:** Redis, BullMQ
+- **Version Control:** Git, GitHub workflows
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Core Competencies
 
-![Pratyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratyush426&show_icons=true&theme=github_dark)
+```
+┌─────────────────────────────────────────────────────────────┐
+│ 💡 AI Integration & LLM Orchestration                      │
+│    • Prompt engineering & schema validation                │
+│    • Multi-provider LLM strategies                         │
+│    • Real-time inference optimization                      │
+│                                                             │
+│ 🏗️ System Architecture                                     │
+│    • Event-driven distributed systems                      │
+│    • Microservice design patterns                          │
+│    • Zero-downtime deployments                             │
+│                                                             │
+│ 🎨 Full-Stack Excellence                                  │
+│    • Database → API → Frontend pipelines                   │
+│    • Real-time dashboards & visualizations                │
+│    • Type-safe end-to-end systems                          │
+│                                                             │
+│ ⚡ Performance & Scalability                              │
+│    • Background job processing                            │
+│    • Caching strategies & optimization                    │
+│    • Database indexing & query optimization               │
+│                                                             │
+│ 🧪 Quality Assurance                                      │
+│    • Automated testing (unit, integration, e2e)           │
+│    • CI/CD pipelines                                      │
+│    • Code quality & type safety with TypeScript/Pylint   │
+│                                                             │
+│ 🔌 API Design & Contracts                                 │
+│    • RESTful best practices                               │
+│    • GraphQL exploration                                  │
+│    • Versioning & backward compatibility                  │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🎯 Philosophy
+## ⭐ Featured Projects
 
-I believe in:
-- **Shipping real products** over perfect prototypes
-- **Clean architecture** that scales without rewriting
-- **Testing & validation** as first-class citizens
-- **Transparent constraints** over hidden complexity
-- **Swappable integrations** over vendor lock-in
+### 🚀 **NexusAI** — AI-Powered Application Tracking System
+**[Repository](https://github.com/Pratyush426/NexusAI) | [Live Demo](https://nexasai.vercel.app/) | [TypeScript](https://img.shields.io/badge/TypeScript-74.3%25-3178C6?style=flat-square)**
+
+**The Problem:** Job seekers manually track applications across email, spreadsheets, and notes.  
+**The Solution:** One-click Gmail sync + AI extraction + real-time dashboard visualization.
+
+**What It Does:**
+- 🔄 Automatically pulls job application emails from Gmail
+- 🧠 AI-powered extraction of Company, Role, and Application Status
+- 📊 Beautiful real-time dashboard with acceptance rates & pipeline health
+- ⚡ Background processing with BullMQ keeps UI responsive (2-5s inference per email)
+
+**Architecture Highlights:**
+- Event-driven design with Redis queue + worker pattern
+- Hybrid classification (RegEx for speed + LLM for accuracy)
+- JSON-native pipeline from Gmail API → LLM → MongoDB → React
+- Real-time UI updates as background workers process the queue
+
+**Tech:** React 18 + TypeScript | Node.js + Express | MongoDB | BullMQ + Redis | Google Gemini | TailwindCSS + Shadcn/ui
 
 ---
 
-## 📫 Let's Connect
+### 🎯 **BetterFeedback** — Intelligent Customer Feedback Analyzer
+**[Repository](https://github.com/Pratyush426/BetterFeedback) | [Live Demo](https://better-feedback-git-main-pratyushs-projects-65d8dae4.vercel.app/) | [Python 40.8%](https://img.shields.io/badge/Python-40.8%25-3776AB?style=flat-square) [JavaScript 33.2%](https://img.shields.io/badge/JavaScript-33.2%25-F7DF1E?style=flat-square)**
 
-- **GitHub:** [@Pratyush426](https://github.com/Pratyush426)
-- **Email:** Reach out via GitHub
+**The Problem:** Raw feedback is unstructured and hard to prioritize.  
+**The Solution:** Paste feedback → AI categorization → instant insights → full history.
 
-I'm always interested in discussing system design, AI integration patterns, or collaborating on projects that push technical boundaries.
+**What It Does:**
+- 📝 Accepts bulk customer feedback in natural language
+- 🤖 AI-powered categorization into Bugs, Features, and Pain Points
+- 💯 Sentiment scoring (0-1 scale) for each category
+- 📊 Three-column dashboard with real-time updates
+- 📜 Full history view with restore functionality
+
+**Technical Excellence:**
+- **Defense-in-depth validation:** System prompt + Pydantic schema validation
+- **Application factory pattern** for clean testability
+- **22 comprehensive tests** (~0.14s, no API key required)
+- **Swappable AI services:** Replace ai_service.py to switch providers (1 file change)
+- **SQLite with Postgres-ready** configuration (zero-migration scaling)
+
+**Tech:** Python + Flask + Pydantic v2 | React 18 + Vite | SQLite → Postgres | Google Gemini | TailwindCSS + Shadcn/ui
 
 ---
 
-*Currently exploring advanced AI orchestration, production-grade ML systems, and the intersection of classical software architecture with modern LLMs.*
+### 🔗 Other Notable Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **text_to_verilog** | LLM-powered hardware description language generation | Python + LLM |
+| **research-qa** | Intelligent document question-answering system | Python + NLP |
+| **Portfolio** | Professional project showcase with animations | JavaScript + React |
+
+---
+
+## 📈 GitHub & Contributions
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratyush426&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush426&layout=compact&theme=github_dark)
+
+**Recent Activity:** 100+ contributions in the last year with consistent development across multiple domains
+
+---
+
+## 🎓 Philosophy & Approach
+
+### Why I Build the Way I Do
+
+```
+Principle 1️⃣  → Shipping real products   (not indefinite polish)
+Principle 2️⃣  → Architecture at scale    (no spaghetti code)
+Principle 3️⃣  → Testing as a feature    (not an afterthought)
+Principle 4️⃣  → Type safety            (TypeScript + Pydantic)
+Principle 5️⃣  → Transparent constraints (document the tradeoffs)
+Principle 6️⃣  → Vendor flexibility      (swappable integrations)
+```
+
+---
+
+## 🌟 What I'm Learning & Exploring
+
+- 🔮 Advanced AI orchestration patterns & prompt optimization
+- 🚀 Production-grade ML systems & fine-tuning strategies
+- 📊 Real-time data pipelines and streaming architectures
+- 🔐 Security & authentication at scale
+- ⚙️ Infrastructure-as-code and DevOps automation
+
+---
+
+## 💬 Let's Connect
+
+| Channel | Link |
+|---------|------|
+| **GitHub** | [@Pratyush426](https://github.com/Pratyush426) |
+| **Contact** | Reach out via GitHub or create an issue |
+
+I'm passionate about:
+- 🤝 Discussing system design & architecture decisions
+- 🧠 Exploring AI integration best practices
+- 🔧 Building with cutting-edge technologies
+- 🚀 Collaborating on projects that push boundaries
+
+---
+
+## 📊 Quick Stats
+
+- 🔧 **11** public repositories
+- ⭐ **4+** pinned projects showcasing core work
+- 💻 **100+** contributions in the last year
+- 🎯 **Full-stack developer** with AI/ML focus
+- 🚀 **Shipped** multiple production systems
+
+---
+
+<div align="center">
+
+**Currently crafting:** Intelligent systems that combine classical software excellence with modern AI  
+**Always interested in:** System design discussions, AI integration patterns, and collaboration opportunities
+
+*"Code is poetry, architecture is the stage, and AI is the plot twist."*
+
+</div>
