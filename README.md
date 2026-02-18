@@ -16,21 +16,31 @@
 
 > Transforming complex problems into scalable, intelligent systems. I specialize in **AI integration**, **event-driven architectures**, and **full-stack development**—from LLM orchestration to pixel-perfect frontends.
 
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+
 ```javascript
-const pratyush = {
-  role: "Full-Stack AI Engineer",
-  location: "Building from everywhere 🌍",
-  code: ["c++", "Express", "Node.js" , "MongoDB", "Python", "TypeScript", "JavaScript"],
-  architecture: ["Event-Driven", "Microservices", "Serverless"],
-  currentFocus: "AI Orchestration & Production ML Systems"
-}
+// 💻 MacBook Terminal
+┌─────────────────────────────────────────────────────────────┐
+│  ⬤ ⬤ ⬤                                              zsh  │
+├─────────────────────────────────────────────────────────────┤
+│ $ const pratyush = {                                        │
+│     role: "Full-Stack AI Engineer" 🚀                      │
+│     location: "Building from everywhere 🌍"                │
+│     languages: ["Python", "TypeScript", "JavaScript"]      │
+│     expertise: ["AI Integration", "System Design"]          │
+│     currentFocus: "Production ML & AI Orchestration"        │
+│ }                                                           │
+│                                                             │
+│ $ npm run build && node index.js                            │
+│ ✓ Build successful | Starting extraordinary projects...    │
+└─────────────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
 ## 🔧 Technical Expertise
-
-<img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" alt="Typing code" width="300" align="left">
 
 ### **Languages & Paradigms**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -73,8 +83,6 @@ const pratyush = {
 ---
 
 ## 🎯 Core Competencies
-
-<img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" alt="Confident coder" width="280" align="right">
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -119,8 +127,6 @@ const pratyush = {
 ---
 
 ## ⭐ Featured Projects
-
-<img src="https://user-images.githubusercontent.com/74038190/212747819-bfcd00a8-2d5e-47d3-b9f1-ea6caf0e5b78.gif" alt="Builder" width="250" align="right">
 
 ### 🚀 **NexusAI** — AI-Powered Application Tracking System
 **[Repository](https://github.com/Pratyush426/NexusAI) | [Live Demo](https://nexasai.vercel.app/) | [TypeScript](https://img.shields.io/badge/TypeScript-74.3%25-3178C6?style=flat-square)**
@@ -196,8 +202,6 @@ validated_response = AnalysisResponse(items=items, count=len(items), error=None)
 
 ### 🔗 Other Notable Projects
 
-<img src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" alt="Girl coding" width="250" align="right">
-
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
 | **text_to_verilog** | LLM-powered hardware description language generation | Python + LLM |
@@ -218,8 +222,6 @@ validated_response = AnalysisResponse(items=items, count=len(items), error=None)
 
 ## 🎓 Philosophy & Approach
 
-<img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" alt="Deep thinking developer" width="300" align="left">
-
 ### Why I Build the Way I Do
 
 ```bash
@@ -238,8 +240,6 @@ for i in {1..6}; do principle_$i; done
 ---
 
 ## 🌟 What I'm Learning & Exploring
-
-<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" alt="She codes" width="280" align="right">
 
 ```
 🔮 Advanced AI orchestration patterns & prompt optimization
