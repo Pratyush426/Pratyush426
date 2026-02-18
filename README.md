@@ -6,19 +6,38 @@
 ║   Full-Stack • AI Engineer • System Architect                        ║
 ║   🚀 Building production-grade AI systems with elegant code          ║
 ║                                                                       ║
+║   > Executing extraordinary projects...                             ║
+║   █████████████░░░░░░░░░░░░░░░░░░ 50% Complete                      ║
+║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
+<img src="https://media.giphy.com/media/SWoSkN6DxJ55ZVsvSe/giphy.gif" alt="Coder at work" width="500" align="right">
+
 > Transforming complex problems into scalable, intelligent systems. I specialize in **AI integration**, **event-driven architectures**, and **full-stack development**—from LLM orchestration to pixel-perfect frontends.
+
+```javascript
+const pratyush = {
+  role: "Full-Stack AI Engineer",
+  location: "Building from everywhere 🌍",
+  code: ["c++", "Express", "Node.js" , "MongoDB", "Python", "TypeScript", "JavaScript"],
+  architecture: ["Event-Driven", "Microservices", "Serverless"],
+  currentFocus: "AI Orchestration & Production ML Systems"
+}
+```
 
 ---
 
 ## 🔧 Technical Expertise
 
+<img src="https://media.giphy.com/media/13HgywJF8yNK2L/giphy.gif" alt="Coding" width="300" align="left">
+
 ### **Languages & Paradigms**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
 
 ### **Frontend Mastery**
 | Technology | Expertise |
@@ -55,34 +74,42 @@
 
 ## 🎯 Core Competencies
 
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWoLEqt/giphy.gif" alt="System Design" width="280" align="right">
+
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │ 💡 AI Integration & LLM Orchestration                      │
+│    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 95%                              │
 │    • Prompt engineering & schema validation                │
 │    • Multi-provider LLM strategies                         │
 │    • Real-time inference optimization                      │
 │                                                             │
 │ 🏗️ System Architecture                                     │
+│    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 90%                              │
 │    • Event-driven distributed systems                      │
 │    • Microservice design patterns                          │
 │    • Zero-downtime deployments                             │
 │                                                             │
 │ 🎨 Full-Stack Excellence                                  │
+│    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%                              │
 │    • Database → API → Frontend pipelines                   │
 │    • Real-time dashboards & visualizations                │
 │    • Type-safe end-to-end systems                          │
 │                                                             │
 │ ⚡ Performance & Scalability                              │
+│    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 88%                              │
 │    • Background job processing                            │
 │    • Caching strategies & optimization                    │
 │    • Database indexing & query optimization               │
 │                                                             │
 │ 🧪 Quality Assurance                                      │
+│    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 91%                              │
 │    • Automated testing (unit, integration, e2e)           │
 │    • CI/CD pipelines                                      │
 │    • Code quality & type safety with TypeScript/Pylint   │
 │                                                             │
 │ 🔌 API Design & Contracts                                 │
+│    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 89%                              │
 │    • RESTful best practices                               │
 │    • GraphQL exploration                                  │
 │    • Versioning & backward compatibility                  │
@@ -92,6 +119,8 @@
 ---
 
 ## ⭐ Featured Projects
+
+<img src="https://media.giphy.com/media/QaMcXSekUWx7i/giphy.gif" alt="Building" width="250" align="right">
 
 ### 🚀 **NexusAI** — AI-Powered Application Tracking System
 **[Repository](https://github.com/Pratyush426/NexusAI) | [Live Demo](https://nexasai.vercel.app/) | [TypeScript](https://img.shields.io/badge/TypeScript-74.3%25-3178C6?style=flat-square)**
@@ -110,6 +139,19 @@
 - Hybrid classification (RegEx for speed + LLM for accuracy)
 - JSON-native pipeline from Gmail API → LLM → MongoDB → React
 - Real-time UI updates as background workers process the queue
+
+```python
+# Core AI extraction logic
+async def extract_job_details(email_text: str) -> JobApplication:
+    """
+    Uses hybrid classification:
+    1. RegEx for fast initial categorization
+    2. Gemini LLM for nuanced extraction
+    """
+    category = regex_classify(email_text)
+    details = await gemini_extract(email_text, category)
+    return validate_and_persist(details)
+```
 
 **Tech:** React 18 + TypeScript | Node.js + Express | MongoDB | BullMQ + Redis | Google Gemini | TailwindCSS + Shadcn/ui
 
@@ -135,11 +177,26 @@
 - **Swappable AI services:** Replace ai_service.py to switch providers (1 file change)
 - **SQLite with Postgres-ready** configuration (zero-migration scaling)
 
+```python
+# Pydantic schema — source of truth for all data contracts
+class FeedbackItem(BaseModel):
+    category: Category  # Bug | Feature | PainPoint
+    summary: str
+    sentiment_score: Annotated[float, Field(ge=0, le=1)]
+    original_text: str
+    
+# Validation with defense-in-depth
+items = [FeedbackItem(**item) for item in ai_response.items()]
+validated_response = AnalysisResponse(items=items, count=len(items), error=None)
+```
+
 **Tech:** Python + Flask + Pydantic v2 | React 18 + Vite | SQLite → Postgres | Google Gemini | TailwindCSS + Shadcn/ui
 
 ---
 
 ### 🔗 Other Notable Projects
+
+<img src="https://media.giphy.com/media/3og0IMJcSI8p4pkwy4/giphy.gif" alt="Laptop" width="250" align="right">
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
@@ -161,26 +218,37 @@
 
 ## 🎓 Philosophy & Approach
 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWM/giphy.gif" alt="Code" width="300" align="left">
+
 ### Why I Build the Way I Do
 
-```
-Principle 1️⃣  → Shipping real products   (not indefinite polish)
-Principle 2️⃣  → Architecture at scale    (no spaghetti code)
-Principle 3️⃣  → Testing as a feature    (not an afterthought)
-Principle 4️⃣  → Type safety            (TypeScript + Pydantic)
-Principle 5️⃣  → Transparent constraints (document the tradeoffs)
-Principle 6️⃣  → Vendor flexibility      (swappable integrations)
+```bash
+#!/bin/bash - Core Development Principles
+
+principle_1() { echo "Shipping real products   → not indefinite polish" }
+principle_2() { echo "Architecture at scale    → no spaghetti code" }
+principle_3() { echo "Testing as a feature     → not an afterthought" }
+principle_4() { echo "Type safety              → TypeScript + Pydantic" }
+principle_5() { echo "Transparent constraints  → document the tradeoffs" }
+principle_6() { echo "Vendor flexibility       → swappable integrations" }
+
+for i in {1..6}; do principle_$i; done
 ```
 
 ---
 
 ## 🌟 What I'm Learning & Exploring
 
-- 🔮 Advanced AI orchestration patterns & prompt optimization
-- 🚀 Production-grade ML systems & fine-tuning strategies
-- 📊 Real-time data pipelines and streaming architectures
-- 🔐 Security & authentication at scale
-- ⚙️ Infrastructure-as-code and DevOps automation
+<img src="https://media.giphy.com/media/xTiTnLOw5NqYDNiGOE/giphy.gif" alt="Space" width="280" align="right">
+
+```
+🔮 Advanced AI orchestration patterns & prompt optimization
+🚀 Production-grade ML systems & fine-tuning strategies
+📊 Real-time data pipelines and streaming architectures
+🔐 Security & authentication at scale
+⚙️  Infrastructure-as-code and DevOps automation
+🤖 Multi-agent AI systems & reasoning frameworks
+```
 
 ---
 
@@ -189,7 +257,8 @@ Principle 6️⃣  → Vendor flexibility      (swappable integrations)
 | Channel | Link |
 |---------|------|
 | **GitHub** | [@Pratyush426](https://github.com/Pratyush426) |
-| **Contact** | Reach out via GitHub or create an issue |
+| **Portfolio** | [pratyushmohanty.vercel.app](https://pratyushmohanty.vercel.app/) |
+| **Contact** | Reach out via GitHub or visit my portfolio |
 
 I'm passionate about:
 - 🤝 Discussing system design & architecture decisions
@@ -211,9 +280,29 @@ I'm passionate about:
 
 <div align="center">
 
-**Currently crafting:** Intelligent systems that combine classical software excellence with modern AI  
-**Always interested in:** System design discussions, AI integration patterns, and collaboration opportunities
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZYaRJYU25/giphy.gif" alt="Finished" width="300">
 
-*"Code is poetry, architecture is the stage, and AI is the plot twist."*
+---
+
+### **Currently crafting:** 
+Intelligent systems that combine classical software excellence with modern AI  
+
+### **Always interested in:** 
+System design discussions, AI integration patterns, and collaboration opportunities
+
+```
+┌────────────────────────────────────────────────────────────┐
+│  "Code is poetry, architecture is the stage,              │
+│   and AI is the plot twist."                              │
+│                                                            │
+│  Let's build something extraordinary together 🚀          │
+└────────────────────────────────────────────────────────────┘
+```
+
+**[Visit My Portfolio](https://pratyushmohanty.vercel.app/)** — See these projects in action!
+
+---
+
+*Last Updated: February 2026 | Always open to collaboration & discussions* ⚡
 
 </div>
