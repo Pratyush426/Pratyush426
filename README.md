@@ -1,342 +1,179 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║   👋  H e y ,  I ' m  P r a t y u s h  M o h a n t y ✨              ║
-║                                                                       ║
-║   Full-Stack • AI Engineer • System Architect                        ║
-║   🚀 Building production-grade AI systems with elegant code          ║
-║                                                                       ║
-║   > Executing extraordinary projects...                             ║
-║   █████████████░░░░░░░░░░░░░░░░░░ 50% Complete                      ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
+# Pratyush Mohanty
 
-</div>
+**Full-Stack Engineer · AI Integration Specialist · System Architect**
 
-> Transforming complex problems into scalable, intelligent systems. I specialize in **AI integration**, **event-driven architectures**, and **full-stack development**—from LLM orchestration to pixel-perfect frontends.
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-pratyushmohanty.vercel.app-6366f1?style=for-the-badge)](https://pratyushmohanty.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Pratyush426-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratyush426)
+[![Profile Views](https://komarev.com/ghpvc/?username=Pratyush426&style=for-the-badge&color=6366f1&label=Profile+Views)](https://github.com/Pratyush426)
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" alt="Penguin working" width="500">
-</div>
-
-<div align="center">
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 20px auto; box-shadow: 0 10px 30px rgba(0,0,0,0.3); max-width: 600px;">
-
-```javascript
-// 💻 MacBook Terminal
-┌─────────────────────────────────────────────────────────────┐
-│  ⬤ ⬤ ⬤                                              zsh  │
-├─────────────────────────────────────────────────────────────┤
-│ $ const pratyush = {                                        │
-│     role: "Full-Stack Engineer" 🚀                      │
-│     location: "Building from everywhere 🌍"                │
-│     languages: ["Python", "TypeScript", "JavaScript"]      │
-│     expertise: ["AI Integration", "System Design"]          │
-│     currentFocus: "Production ML & AI Orchestration"        │
-│ }                                                           │
-│                                                             │
-│ $ npm run build && node index.js                            │
-│ ✓ Build successful | Starting extraordinary projects...    │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;LLM+Orchestration+%7C+Event-driven+Architecture;Full-Stack+%7C+TypeScript+%7C+Python;Shipping+things+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 ---
 
+> I build **production-grade AI systems** — from LLM orchestration and event-driven backends to type-safe, real-time frontends.  
+> I care deeply about **clean architecture**, **testable code**, and **shipping things that actually work**.
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+</div>
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-## 🔧 Technical Expertise
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Languages & Paradigms**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Frontend
+![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/Shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF4040?style=for-the-badge&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### AI / ML
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F54A00?style=for-the-badge&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+### DevOps
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
 ---
 
-### **Frontend Mastery**
-| Technology | Expertise |
-|------------|-----------|
-| **React 18** | Components, Hooks, State Management (TanStack Query) |
-| **Styling** | Tailwind CSS, Shadcn/ui, Framer Motion animations |
-| **Build Tools** | Vite, Next.js optimization, bundle analysis |
-| **UX Focus** | Accessibility (a11y), responsive design, performance |
+## 🚀 Featured Projects
 
-### **Backend & Architecture**
-| Domain | Stack |
-|--------|-------|
-| **APIs** | Node.js + Express, Flask, RESTful design |
-| **Async Processing** | BullMQ, Redis, event-driven patterns |
-| **Databases** | MongoDB (Mongoose), PostgreSQL, SQLite |
-| **Testing** | Jest, Pytest, integration & unit tests |
-| **Design Patterns** | Factory pattern, dependency injection, SOLID principles |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### **AI & Machine Learning**
-| Area | Implementation |
-|------|-----------------|
-| **LLM Integration** | Google Gemini, Groq, prompt engineering |
-| **Schema Validation** | Pydantic v2, defense-in-depth contracts |
-| **AI Orchestration** | Task routing, parallel processing, fallback strategies |
-| **Data Processing** | Email parsing, natural language understanding, classification |
+### 🤖 [NexusAI](https://github.com/Pratyush426/NexusAI)
+**AI-Powered Application Tracking System**
 
-### **DevOps & Infrastructure**
-- **Deployment:** Vercel, Render, Railway
-- **Database Hosting:** MongoDB Atlas, Railway Postgres
-- **Caching & Queues:** Redis, BullMQ
-- **Version Control:** Git, GitHub workflows
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://nexasai.vercel.app/)
+[![Repo](https://img.shields.io/badge/Source_Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratyush426/NexusAI)
 
-</div>
+> Job seekers drown in scattered emails and spreadsheets. NexusAI fixes that with one-click Gmail sync and AI-powered extraction into a real-time dashboard.
 
-<div align="center">
+**Highlights:**
+- 🔄 Automatic Gmail ingestion & batch processing
+- 🧠 Hybrid classification — RegEx + Gemini LLM
+- ⚡ BullMQ + Redis queue keeps UI fast
+- 📊 Real-time pipeline health dashboard
+- 🏗️ `Gmail API → LLM → MongoDB → React`
 
-## 🎯 Core Competencies
+`React 18` `TypeScript` `Node.js` `MongoDB` `BullMQ` `Redis` `Gemini`
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│ 💡 AI Integration & LLM Orchestration                      │
-│    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 95%                              │
-│    • Prompt engineering & schema validation                │
-│    • Multi-provider LLM strategies                         │
-│    • Real-time inference optimization                      │
-│                                                             │
-│ 🏗️ System Architecture                                     │
-│    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 90%                              │
-│    • Event-driven distributed systems                      │
-│    • Microservice design patterns                          │
-│    • Zero-downtime deployments                             │
-│                                                             │
-│ 🎨 Full-Stack Excellence                                  │
-│    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%                              │
-│    • Database → API → Frontend pipelines                   │
-│    • Real-time dashboards & visualizations                │
-│    • Type-safe end-to-end systems                          │
-│                                                             │
-│ ⚡ Performance & Scalability                              │
-│    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 88%                              │
-│    • Background job processing                            │
-│    • Caching strategies & optimization                    │
-│    • Database indexing & query optimization               │
-│                                                             │
-│ 🧪 Quality Assurance                                      │
-│    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 91%                              │
-│    • Automated testing (unit, integration, e2e)           │
-│    • CI/CD pipelines                                      │
-│    • Code quality & type safety with TypeScript/Pylint   │
-│                                                             │
-│ 🔌 API Design & Contracts                                 │
-│    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 89%                              │
-│    • RESTful best practices                               │
-│    • GraphQL exploration                                  │
-│    • Versioning & backward compatibility                  │
-└─────────────────────────────────────────────────────────────┘
-```
+</td>
+<td width="50%" valign="top">
 
-</div>
+### 💬 [BetterFeedback](https://github.com/Pratyush426/BetterFeedback)
+**Intelligent Customer Feedback Analyzer**
 
-<div align="center">
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://better-feedback-git-main-pratyushs-projects-65d8dae4.vercel.app/)
+[![Repo](https://img.shields.io/badge/Source_Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratyush426/BetterFeedback)
 
-## ⭐ Featured Projects
+> Raw customer feedback is noise. BetterFeedback converts it into structured, sentiment-scored insights instantly.
 
-</div>
+**Highlights:**
+- 🤖 AI categorization: Bugs · Features · Pain Points
+- 💯 Sentiment scoring (0–1 scale) via Gemini
+- 🛡️ Defense-in-depth: system prompt + Pydantic v2
+- ✅ 22 tests in ~0.14s — no API key required
+- 🔌 Swap AI provider with 1 file change
 
-### 🚀 **NexusAI** — AI-Powered Application Tracking System
-**[Repository](https://github.com/Pratyush426/NexusAI) | [Live Demo](https://nexasai.vercel.app/) | [TypeScript](https://img.shields.io/badge/TypeScript-74.3%25-3178C6?style=flat-square)**
+`Python` `Flask` `Pydantic v2` `React` `Vite` `SQLite` `Gemini`
 
-**The Problem:** Job seekers manually track applications across email, spreadsheets, and notes.  
-**The Solution:** One-click Gmail sync + AI extraction + real-time dashboard visualization.
+</td>
+</tr>
+</table>
 
-**What It Does:**
-- 🔄 Automatically pulls job application emails from Gmail
-- 🧠 AI-powered extraction of Company, Role, and Application Status
-- 📊 Beautiful real-time dashboard with acceptance rates & pipeline health
-- ⚡ Background processing with BullMQ keeps UI responsive (2-5s inference per email)
+### 📦 Other Projects
 
-**Architecture Highlights:**
-- Event-driven design with Redis queue + worker pattern
-- Hybrid classification (RegEx for speed + LLM for accuracy)
-- JSON-native pipeline from Gmail API → LLM → MongoDB → React
-- Real-time UI updates as background workers process the queue
-
-```python
-# Core AI extraction logic
-async def extract_job_details(email_text: str) -> JobApplication:
-    """
-    Uses hybrid classification:
-    1. RegEx for fast initial categorization
-    2. Gemini LLM for nuanced extraction
-    """
-    category = regex_classify(email_text)
-    details = await gemini_extract(email_text, category)
-    return validate_and_persist(details)
-```
-
-**Tech:** React 18 + TypeScript | Node.js + Express | MongoDB | BullMQ + Redis | Google Gemini | TailwindCSS + Shadcn/ui
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| **text_to_verilog** | LLM-powered hardware description language generation | Python · LLM | [GitHub](https://github.com/Pratyush426) |
+| **research-qa** | Intelligent document Q&A with semantic search | Python · NLP | [GitHub](https://github.com/Pratyush426) |
+| **Portfolio** | Personal portfolio with smooth animations | React · JS | [Live](https://pratyushmohanty.vercel.app/) |
 
 ---
 
-### 🎯 **BetterFeedback** — Intelligent Customer Feedback Analyzer
-**[Repository](https://github.com/Pratyush426/BetterFeedback) | [Live Demo](https://better-feedback-git-main-pratyushs-projects-65d8dae4.vercel.app/) | [Python 40.8%](https://img.shields.io/badge/Python-40.8%25-3776AB?style=flat-square) [JavaScript 33.2%](https://img.shields.io/badge/JavaScript-33.2%25-F7DF1E?style=flat-square)**
-
-**The Problem:** Raw feedback is unstructured and hard to prioritize.  
-**The Solution:** Paste feedback → AI categorization → instant insights → full history.
-
-**What It Does:**
-- 📝 Accepts bulk customer feedback in natural language
-- 🤖 AI-powered categorization into Bugs, Features, and Pain Points
-- 💯 Sentiment scoring (0-1 scale) for each category
-- 📊 Three-column dashboard with real-time updates
-- 📜 Full history view with restore functionality
-
-**Technical Excellence:**
-- **Defense-in-depth validation:** System prompt + Pydantic schema validation
-- **Application factory pattern** for clean testability
-- **22 comprehensive tests** (~0.14s, no API key required)
-- **Swappable AI services:** Replace ai_service.py to switch providers (1 file change)
-- **SQLite with Postgres-ready** configuration (zero-migration scaling)
-
-```python
-# Pydantic schema — source of truth for all data contracts
-class FeedbackItem(BaseModel):
-    category: Category  # Bug | Feature | PainPoint
-    summary: str
-    sentiment_score: Annotated[float, Field(ge=0, le=1)]
-    original_text: str
-    
-# Validation with defense-in-depth
-items = [FeedbackItem(**item) for item in ai_response.items()]
-validated_response = AnalysisResponse(items=items, count=len(items), error=None)
-```
-
-**Tech:** Python + Flask + Pydantic v2 | React 18 + Vite | SQLite → Postgres | Google Gemini | TailwindCSS + Shadcn/ui
-
----
+## � GitHub Stats
 
 <div align="center">
 
-### 🔗 Other Notable Projects
+<img src="https://github-readme-stats.vercel.app/api?username=Pratyush426&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush426&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" width="49%" />
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **text_to_verilog** | LLM-powered hardware description language generation | Python + LLM |
-| **research-qa** | Intelligent document question-answering system | Python + NLP |
-| **Portfolio** | Professional project showcase with animations | JavaScript + React |
-
-</div>
-
-<div align="center">
-
-## 📈 GitHub & Contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratyush426&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush426&layout=compact&theme=github_dark)
-
-**Recent Activity:** 100+ contributions in the last year with consistent development across multiple domains
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyush426&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="70%" />
 
 </div>
 
 ---
 
-<div align="center">
+## 🧠 How I Work
 
-## 🎓 Philosophy & Approach
-
-### Why I Build the Way I Do
-
-```bash
-#!/bin/bash - Core Development Principles
-
-principle_1() { echo "Shipping real products   → not indefinite polish" }
-principle_2() { echo "Architecture at scale    → no spaghetti code" }
-principle_3() { echo "Testing as a feature     → not an afterthought" }
-principle_4() { echo "Type safety              → TypeScript + Pydantic" }
-principle_5() { echo "Transparent constraints  → document the tradeoffs" }
-principle_6() { echo "Vendor flexibility       → swappable integrations" }
-
-for i in {1..6}; do principle_$i; done
-```
-
-</div>
+| Principle | Practice |
+|-----------|----------|
+| 🚢 **Ship early, iterate often** | Real products in front of real users — fast |
+| 🏗️ **Architecture first** | Design for scale before writing line one |
+| ✅ **Testing is a feature** | Automated from day one, never added later |
+| 🔒 **Type safety everywhere** | TypeScript + Pydantic — no runtime surprises |
+| 🔌 **Vendor flexibility** | Swappable integrations, zero hard lock-ins |
+| 📝 **Transparent tradeoffs** | Document the *why*, not just the *what* |
 
 ---
 
-<div align="center">
-
-## 🌟 What I'm Learning & Exploring
+## 🌱 Currently Exploring
 
 ```
-🔮 Advanced AI orchestration patterns & prompt optimization
-🚀 Production-grade ML systems & fine-tuning strategies
-📊 Real-time data pipelines and streaming architectures
-🔐 Security & authentication at scale
-⚙️  Infrastructure-as-code and DevOps automation
-🤖 Multi-agent AI systems & reasoning frameworks
+🔮  Advanced AI orchestration patterns & prompt optimization
+🤖  Multi-agent AI systems & reasoning frameworks
+📡  Real-time data pipelines & streaming architectures
+🔐  Security & authentication at scale
+⚙️  Infrastructure-as-code & DevOps automation
 ```
-
-</div>
-
-## 💬 Let's Connect
-
-| Channel | Link |
-|---------|------|
-| **GitHub** | [@Pratyush426](https://github.com/Pratyush426) |
-| **Portfolio** | [pratyushmohanty.vercel.app](https://pratyushmohanty.vercel.app/) |
-| **Contact** | Reach out via GitHub or visit my portfolio |
-
-I'm passionate about:
-- 🤝 Discussing system design & architecture decisions
-- 🧠 Exploring AI integration best practices
-- 🔧 Building with cutting-edge technologies
-- 🚀 Collaborating on projects that push boundaries
-
-</div>
-
-<div align="center">
-
-## 📊 Quick Stats
-
-- 🔧 **11** public repositories
-- ⭐ **4+** pinned projects showcasing core work
-- 💻 **100+** contributions in the last year
-- 🎯 **Full-stack developer** with AI/ML focus
-- 🚀 **Shipped** multiple production systems
-
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="Handshake" width="300">
 
 ---
 
-### **Currently crafting:** 
-Intelligent systems that combine classical software excellence with modern AI  
+## 📬 Let's Connect
 
-### **Always interested in:** 
-System design discussions, AI integration patterns, and collaboration opportunities
+<div align="center">
 
-```
-┌────────────────────────────────────────────────────────────┐
-│  "Code is poetry, architecture is the stage,              │
-│   and AI is the plot twist."                              │
-│                                                            │
-│  Let's build something extraordinary together 🚀          │
-└────────────────────────────────────────────────────────────┘
-```
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-6366f1?style=for-the-badge)](https://pratyushmohanty.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratyush426)
 
-**[Visit My Portfolio](https://pratyushmohanty.vercel.app/)** — See these projects in action!
+**Open to collaborations, system design discussions, and new opportunities.**  
+Reach out via GitHub or through my portfolio.
 
 ---
 
-*Last Updated: February 2026 | Always open to collaboration & discussions* ⚡
+*Last updated: February 2026 · Always building something* ⚡
 
 </div>
