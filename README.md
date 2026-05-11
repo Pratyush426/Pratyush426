@@ -19,11 +19,6 @@
 <img src="https://komarev.com/ghpvc/?username=Pratyush426&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&labelColor=0a0f1e"/>
 
 <br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
-
-<br/>
-<br/><br/>
 *"I don't configure systems — I design them to think for themselves."*
 
 </div>
