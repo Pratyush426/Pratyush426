@@ -1,25 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pratyush%20Mohanty&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20·%20AI%20Systems%20Architect%20·%20LLM%20Integration%20Specialist&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Pratyush%20Mohanty&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Systems%20Researcher%20·%20Applied%20ML%20Engineer%20·%20Systems%20Architect&descAlignY=55&descSize=16"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=70&lines=🏗️+Architecting+production-grade+AI+systems+from+scratch;🤖+Multi-Agent+Frameworks+·+RAG+·+LLM+Orchestration;⚡+Event-Driven+Backends+·+Microservices+·+TypeScript+%2B+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=750&height=75&lines=🐝+Creator+of+ClawSwarm+AI:+Adaptive+Contextual+Bandits;🛡️+Audio-Visual+Deepfake+Detection+via+Synchronization+Fusion;🔐+Multi-Modal+RAG+Engines+·+Event-Driven+Microservices;⚡+Distributed+Agent+Swarms+·+Low-Latency+Inference+·+PyTorch+%2B+TypeScript)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://pratyushmohanty.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐 Portfolio-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a0f1e"/>
+<a href="https://pratyush426.github.io/homepage/">
+  <img src="https://img.shields.io/badge/🌐_Academic_Portfolio-00D9FF?style=for-the-badge&logoColor=white&labelColor=0a0f1e"/>
 </a>
 &nbsp;
-<a href="https://github.com/Pratyush426">
-  <img src="https://img.shields.io/badge/GitHub-Pratyush426-0a0f1e?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://linkedin.com/in/pratyushmohantymsrit">
+  <img src="https://img.shields.io/badge/LinkedIn-Pratyush_Mohanty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Pratyush426/">
+  <img src="https://img.shields.io/badge/LeetCode-1755_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0f1e"/>
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Pratyush426&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&labelColor=0a0f1e"/>
 
 <br/><br/>
-*"I don't configure systems — I design them to think for themselves."*
+*"Bridging theoretical machine learning with production-grade distributed architectures."*
 
 </div>
 
@@ -29,96 +33,92 @@
 
 ```typescript
 const pratyush = {
-  role       : "Full-Stack Engineer & AI Systems Architect",
-  obsession  : "Building AI systems that shouldn't exist yet",
-  approach   : ["Architecture first", "Async by default", "Type-safe everywhere"],
-  currently  : ["Multi-agent reasoning patterns", "LLM evaluation frameworks",
-                 "Real-time streaming architectures"],
-  superpower : "Turning ambiguous problems into shipped products",
-  openTo     : ["SWE roles", "AI/LLM system design", "Interesting collaborations"]
+  currentRole   : "Research Intern @ CAIR, DRDO",
+  education     : "B.E. in Electronics & Communication Engineering @ MSRIT Bengaluru (8.53 CGPA)",
+  coreDomains   : ["Machine Learning", "Natural Language Processing", "Signal Processing", "Distributed Systems"],
+  algorithmic   : "LeetCode 1755 Rating (400+ Solved · Top 10%)",
+  researchFocus : [
+    "Contextual multi-armed bandits & emergent multi-agent decision systems",
+    "Cross-modal synchronization fusion for synthetic media & deepfake detection",
+    "High-throughput asynchronous microservices & non-blocking inference cascades"
+  ],
+  engineering   : ["Async by default", "Statistical rigor", "Type-safe end-to-end"],
+  availability  : "Open for long-term Research Fellow / Intern appointments (6–10 months) & AI Systems roles",
+  location      : "Bengaluru, Karnataka, India"
 };
 ```
 
 ---
 
-## 🚀 Featured Projects
+## 🔬 Flagship Research & Core Systems
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🐝 ClawSwarm AI
-**Novel Multi-Agent Framework with Emergent Role Specialization**
+### 🐝 ClawSwarm AI: Adaptive Multi-Agent Orchestration
+**Independent Research Framework**
 
 [![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-00D9FF?style=flat-square&logoColor=white)](https://clawswarnam.vercel.app) [![Source](https://img.shields.io/badge/SOURCE-0a0f1e?style=flat-square&logo=github)](https://github.com/Pratyush426/clawswarnam)
 
-> Solves the hardcoded-role problem in CrewAI, AutoGen & LangGraph. Agents start **identical** and organically evolve into Researchers, Coders, or Critics through competitive performance — no config needed.
+> Eliminates static, manually hardcoded roles in multi-agent frameworks (CrewAI, AutoGen). Agents begin dynamically identical and evolve emergent specializations through empirical performance feedback.
 
-**🔬 Key Innovations**
-- 6-dimensional EMA skill vectors for continuous role tracking
-- Epsilon-greedy router (80/20 exploit-explore balance)
-- 2-second heartbeat fault tolerance
-- LLM-as-Judge scoring pipeline
-- Live D3.js swarm visualization
+**🔬 Innovations & Benchmarks:**
+- **Dynamic Routing**: Formulated as a contextual multi-armed bandit with **6D Exponential Moving Average (EMA)** skill vectors and entropy-decay $\varepsilon$-greedy exploration.
+- **Empirical Validation**: **63% cumulative regret reduction** ($p < 0.001$, paired Wilcoxon signed-rank test) across 50-seed simulation benchmarks with cross-model LLM-as-judge evaluation.
+- **Fault-Tolerant Consensus**: 2-second peer heartbeat leader election with live D3.js force-directed topology.
 
-**Stack:** `Python` `FastAPI` `Redis` `Claude` `Groq` `React` `D3.js` `Docker`
+**Stack:** `Python` `FastAPI` `Redis` `Claude 3.5` `Groq` `React` `D3.js` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 NexusAI
-**AI-Powered Job Application Tracking System**
+### 🛡️ Multimodal Deepfake Detection via Synchronization Fusion
+**Undergraduate Research @ MSRIT (Adv: Dr. S. Sethu Selvi)**
 
-[![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-00D9FF?style=flat-square&logoColor=white)](https://nexasai.vercel.app/) [![Source](https://img.shields.io/badge/SOURCE-0a0f1e?style=flat-square&logo=github)](https://github.com/Pratyush426/NexusAI)
+[![Portfolio Link](https://img.shields.io/badge/Details-Research_Portfolio-00D9FF?style=flat-square&logoColor=white)](https://pratyush426.github.io/homepage/)
 
-> Replaces scattered emails and spreadsheets with Gmail OAuth sync + an AI pipeline that extracts, classifies, and visualizes your job search — **automatically**.
+> Identifies synthetic facial video manipulations by capturing temporal-phase mismatches between acoustic formants and visual phoneme movements.
 
-**🔬 Key Innovations**
-- Async BullMQ workers for non-blocking LLM inference
-- Hybrid RegEx + Gemini 1.5 classification engine
-- Real-time Recharts analytics dashboard
-- JSON-native end-to-end pipeline
+**🔬 Innovations & Benchmarks:**
+- **Cross-Modal Attention**: Synchronization-Aware Feature Fusion (SAFF) combining EfficientNet-B0 visual streams with Mel-spectrogram CNN audio encoders via CM-GAN.
+- **State-of-the-Art Results**: Achieved **94.57% accuracy** and **0.979 AUC** on the LAV-DF benchmark dataset; demonstrated robust cross-lingual generalization on Hindi datasets (HAV-DF: **80.12% accuracy**).
 
-**Stack:** `React 18` `TypeScript` `Node.js` `BullMQ` `Redis` `MongoDB` `Gemini 1.5` `Groq`
+**Stack:** `PyTorch` `EfficientNet-B0` `Mel-Spectrograms` `CM-GAN` `OpenCV` `Librosa`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Pramanik AI
-**RAG-Powered SOC 2 Compliance Engine**
+### 🔐 Pramanik AI: SOC 2 Multi-Modal RAG Engine
+**Autonomous Security & Compliance Infrastructure**
 
 [![Source](https://img.shields.io/badge/SOURCE-0a0f1e?style=flat-square&logo=github)](https://github.com/Pratyush426/pramanik)
 
-> Makes SOC 2 compliance **self-serve** for SaaS startups — a multi-modal RAG system with 7 specialized operating modes guiding teams through the entire compliance lifecycle.
+> Makes compliance self-serve for SaaS startups through a multi-modal RAG architecture operating across 7 specialized compliance modes (SOC 2, ISO 27001, HIPAA).
 
-**7 Modes:** `Gap Analysis` · `Policy Generator` · `Ghost Audit` · `Vendor Inheritance` · `Breach Playbook` · `PathFinder` · `Compliance Chatbot`
+**🔬 Innovations & Benchmarks:**
+- **Zero-Lockin Runtime Failover**: Dynamic runtime provider failover across DeepSeek → AWS Bedrock → Groq.
+- **CES Risk Vectorization**: Custom risk vectorization algorithm with hybrid dense-sparse semantic retrieval across Supabase vector tables.
 
-**🔬 Key Innovations**
-- Multi-provider failover: Deepseek → Bedrock → Groq
-- Custom CES risk vectorization algorithm
-- SOC 2 × ISO 27001 × HIPAA crosswalk engine
-
-**Stack:** `Python` `FastAPI` `AWS Bedrock` `Deepseek` `Groq` `Supabase` `React` `Pydantic v2`
+**Stack:** `Python` `FastAPI` `AWS Bedrock` `DeepSeek` `Supabase` `React` `Pydantic v2`
 
 </td>
 <td width="50%" valign="top">
 
-### 🩺 HealTrip
-**AI-Powered Medical Tourism Platform (Microservices)**
+### 📊 NexusAI: AI-Powered Application Tracking
+**Event-Driven Job Search Intelligence Platform**
 
-[![Source](https://img.shields.io/badge/SOURCE-0a0f1e?style=flat-square&logo=github)](https://github.com/Pratyush426/HealTrip)
+[![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-00D9FF?style=flat-square&logoColor=white)](https://nexasai.vercel.app/) [![Source](https://img.shields.io/badge/SOURCE-0a0f1e?style=flat-square&logo=github)](https://github.com/Pratyush426/NexusAI)
 
-> End-to-end medical tourism — symptom diagnosis → hospital booking → flights → hotels → automated visa letter generation. Three independent ML engines behind a Node.js gateway.
+> Replaces static application tracking with automated Gmail OAuth synchronization, background queue processing, and structured LLM extraction.
 
-**🔬 Key Innovations**
-- Medical PDF NLP for specialty detection
-- Persistent HealAI session memory across 6-step wizard
-- Automated multi-country visa letter generation
-- Dual checkout: Stripe + Razorpay
+**🔬 Innovations & Benchmarks:**
+- **Non-Blocking Ingestion**: Background BullMQ + Redis job consumers decoupling OAuth token refresh and rate-limited LLM inference.
+- **Hybrid Extraction**: Dual-engine RegEx pre-filtering + Gemini 1.5 JSON-schema validation for deterministic telemetry and analytics.
 
-**Stack:** `React 19` `Node.js` `FastAPI` `scikit-learn` `MongoDB` `Groq` `OpenAI` `Stripe` `Docker`
+**Stack:** `React 18` `TypeScript` `Node.js` `BullMQ` `Redis` `MongoDB` `Gemini 1.5`
 
 </td>
 </tr>
@@ -126,66 +126,60 @@ const pratyush = {
 
 ---
 
-## 📦 More Builds
+## 🚀 More Production Builds & Systems
 
 <div align="center">
 
-| Project | What it does | Stack |
-|:---:|:---|:---:|
-| 🐛 **[BetterFeedback](https://github.com/Pratyush426/BetterFeedback)** | AI feedback analyzer — categorizes Bugs / Features / Pain Points with Gemini sentiment scoring. **22 tests in ~0.14s** | `Python` `Flask` `Pydantic v2` `React` `SQLite` |
-| ⚙️ **text_to_verilog** | Natural language → hardware description language (HDL) via LLM | `Python` `LLM` |
-| 🔍 **research-qa** | Intelligent document Q&A with semantic search | `Python` `RAG` `NLP` |
-| 🌐 **[Portfolio](https://pratyushmohanty.vercel.app/)** | Personal site with scroll animations | `React` `Framer Motion` |
+| Project | Description | Highlights | Stack |
+|:---|:---|:---|:---:|
+| 🩺 **[HealTrip](https://github.com/Pratyush426/HealTrip)** | Medical Tourism Microservices Platform | 3 independent ML engines, clinical PDF NLP for specialty detection, automated visa letter generation | `FastAPI` `Node.js` `scikit-learn` `MongoDB` `Stripe` `Docker` |
+| 🐛 **[BetterFeedback](https://github.com/Pratyush426/BetterFeedback)** | Automated Feedback Classification | Triages user feedback into Bugs / Features / Pain Points with sentiment scoring; **22 tests in 0.14s** | `Python` `Flask` `Pydantic v2` `React` `SQLite` |
+| ⚙️ **text_to_verilog** | Natural Language to Hardware Description | Translates natural language module specifications into syntactically valid Verilog RTL modules | `Python` `LLM` `Verilog` `Hardware Synthesis` |
+| 🔍 **research-qa** | Semantic Document Intelligence | Vectorized retrieval-augmented generation engine with dense embeddings for academic paper interrogation | `Python` `RAG` `NLP` `FAISS` |
+| 🌐 **[Academic Portfolio](https://pratyush426.github.io/homepage/)** | Minimalist Academic Research Portal | Full-width single-column responsive dashboard; custom hash router; zero external framework bloat | `Vanilla JavaScript` `CSS3` `HTML5` `GitHub Pages` |
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-**Languages**
-
+### Languages & Core Computation
 ![Python](https://img.shields.io/badge/Python-0a0f1e?style=for-the-badge&logo=python&logoColor=00D9FF)
+![C++](https://img.shields.io/badge/C++-0a0f1e?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0f1e?style=for-the-badge&logo=typescript&logoColor=00D9FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0f1e?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
+![SQL](https://img.shields.io/badge/SQL-0a0f1e?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frontend**
+### Machine Learning & Signal Processing
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0f1e?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Hugging Face](https://img.shields.io/badge/Transformers-0a0f1e?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0f1e?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![FAISS](https://img.shields.io/badge/FAISS-0a0f1e?style=for-the-badge&logo=meta&logoColor=0081FB)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-0a0f1e?style=for-the-badge&logo=weightsandbiases&logoColor=FFBE00)
 
-![React](https://img.shields.io/badge/React_18/19-0a0f1e?style=for-the-badge&logo=react&logoColor=00D9FF)
-![Next.js](https://img.shields.io/badge/Next.js-0a0f1e?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-0a0f1e?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
-![D3.js](https://img.shields.io/badge/D3.js-0a0f1e?style=for-the-badge&logo=d3.js&logoColor=f9a825)
-![Three.js](https://img.shields.io/badge/Three.js-0a0f1e?style=for-the-badge&logo=three.js&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0a0f1e?style=for-the-badge&logo=framer&logoColor=white)
-
-**Backend & Infrastructure**
-
+### Distributed Systems, Backends & Data
 ![FastAPI](https://img.shields.io/badge/FastAPI-0a0f1e?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Node.js](https://img.shields.io/badge/Node.js-0a0f1e?style=for-the-badge&logo=node.js&logoColor=8cc84b)
 ![Redis](https://img.shields.io/badge/Redis-0a0f1e?style=for-the-badge&logo=redis&logoColor=FF4438)
 ![Docker](https://img.shields.io/badge/Docker-0a0f1e?style=for-the-badge&logo=docker&logoColor=2496ED)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0f1e?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0f1e?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Supabase](https://img.shields.io/badge/Supabase-0a0f1e?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0f1e?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-**AI / ML**
-
-![Claude](https://img.shields.io/badge/Anthropic_Claude-0a0f1e?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-0a0f1e?style=for-the-badge&logo=google&logoColor=4285F4)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-0a0f1e?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Groq](https://img.shields.io/badge/Groq-0a0f1e?style=for-the-badge&logoColor=F55036)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0f1e?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+### Frontend & Data Visualization
+![React](https://img.shields.io/badge/React_18/19-0a0f1e?style=for-the-badge&logo=react&logoColor=00D9FF)
+![Next.js](https://img.shields.io/badge/Next.js-0a0f1e?style=for-the-badge&logo=next.js&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-0a0f1e?style=for-the-badge&logo=d3.js&logoColor=f9a825)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0a0f1e?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
+![Three.js](https://img.shields.io/badge/Three.js-0a0f1e?style=for-the-badge&logo=three.js&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & Algorithmic Activity
 
 <div align="center">
 
@@ -204,43 +198,27 @@ const pratyush = {
 
 ---
 
-## 🧠 Engineering Principles
+## 🧠 Research & Engineering Principles
 
 <div align="center">
 
 | | Principle | How I Practice It |
 |:---:|:---|:---|
-| 🏗️ | **Architecture First** | Design for scale, fault tolerance, and vendor flexibility before writing line one |
-| ⚡ | **Async by Default** | Background queues (BullMQ/Redis), WebSockets, non-blocking pipelines everywhere |
-| ✅ | **Testing is a Feature** | Automated from day one — never retrofitted as an afterthought |
-| 🔒 | **Type Safety Everywhere** | TypeScript end-to-end + Pydantic v2 on all Python services |
-| 🔌 | **Vendor Flexibility** | Swappable AI providers with automatic failover — zero hard lock-ins |
-| 🚢 | **Ship and Iterate** | Real products deployed to real users, then refined with data |
+| 📐 | **Statistical Rigor First** | Validate agent convergence and model lifts with empirical regret bounds and Wilcoxon signed-rank testing ($p < 0.001$). |
+| ⚡ | **Decoupled Cascades** | Route inputs through fast heuristic filters before committing to computationally heavy Transformer sequence inference. |
+| 🔄 | **Async & Non-Blocking** | Background task queues (BullMQ/Redis), streaming WebSockets, and event-driven decoupling across all services. |
+| 🛡️ | **Zero-Leakage Preprocessing** | Strict deduplication and GroupKFold partitions to eliminate cross-fold contamination on real-world distributions. |
+| 🔒 | **Type Safety Everywhere** | End-to-end TypeScript on client interfaces + strict Pydantic v2 schemas on all backend microservices. |
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
+## 🎶 Beyond Engineering
 
-```python
-explorations = {
-    "🤖 AI":       "Multi-agent reasoning patterns & advanced LLM orchestration",
-    "📡 Systems":  "Real-time streaming architectures & event-driven pipelines",
-    "🔐 Security": "Auth patterns, zero-trust design & compliance automation",
-    "🧪 Evals":    "Evaluation frameworks for LLM output quality at scale",
-}
-```
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pratyush426&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-
-</div>
+When away from terminal screens and neural networks, I am a dedicated practitioner of classical Indian performing arts:
+- **Hindustani Classical Vocal Performance**: Trained across Khyal, Tarana, and semi-classical forms (Akhil Bharatiya Gandharva Mahavidyalaya Mandal certification); broadcasted on All India Radio (AIR) and Doordarshan.
+- **Tabla Percussion**: Rigorous study of rhythmic cycles (*Teentaal*, *Ektaal*), improvisational *kaydas*, and accompaniment dynamics.
 
 ---
 
@@ -250,13 +228,15 @@ explorations = {
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-00D9FF?style=for-the-badge&labelColor=0a0f1e&color=00D9FF)](https://pratyushmohanty.vercel.app/)
+[![Academic Portfolio](https://img.shields.io/badge/🌐_Academic_Portfolio-00D9FF?style=for-the-badge&labelColor=0a0f1e&color=00D9FF)](https://pratyush426.github.io/homepage/)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/👾_Follow_on_GitHub-0a0f1e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratyush426)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e)](https://linkedin.com/in/pratyushmohantymsrit)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1e)](mailto:pratyushmohanty2912@gmail.com)
 
-<br/>
+<br/><br/>
 
-**Open to SWE roles · AI/LLM system design discussions · Interesting collaborations**
+**Actively seeking & available for full-time Research Fellow / Intern appointments (6–10 months) and Tier-1 AI Systems roles.**
 
 <br/>
 
