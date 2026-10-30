@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Pratyush_Mohanty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/Pratyush426/">
+<a href="https://leetcode.com/u/pratyushmohanty2912/">
   <img src="https://img.shields.io/badge/LeetCode-1755_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0f1e"/>
 </a>
 &nbsp;
